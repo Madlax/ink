@@ -1,0 +1,134 @@
+
+                       The Open Development License 1.0
+
+                                   Preamble
+
+
+
+The intent of this document is to state the conditions under which a Package
+may be copied, such that the Copyright Holder maintains control over the
+development of the Package, while giving the users of the package the right
+to use and distribute the Package in a more-or-less customary fashion, plus
+the right to make reasonable modifications.
+
+Definitions:
+
+    "Package" refers to the collection of files distributed by the Copyright
+    Holder, and derivatives of that collection of files created through
+    modification.
+
+    "Standard Version" refers to such a Package if it has not been modified,
+    or has been modified in accordance with the wishes of the Copyright
+    Holder as specified below.
+
+    "Copyright Holder" is whoever is named in the copyright or copyrights
+    for the package.
+
+    "You" is you or the organisation that you represent, if you are thinking
+    about copying or distributing this Package.
+
+    "Distribution fee" is a fee that you charge for providing a copy of this
+    Package to another party.
+
+    "Freely Available" means that no fee is charged for the right to use the
+    item.  It also means that recipients of the item may redistribute it
+    under the same conditions they received it.
+
+
+DISTRIBUTION RIGHTS
+
+1. You may make and give away verbatim copies of the source form of the
+   Standard Version of the Package, provided that:
+
+   a) You retain all of the original copyright notices and associated
+      disclaimers.
+
+   b) You do not claim ownership of the Package, regardless of whether or
+      not it has been modified.
+
+2. You may not charge a distribution fee, licensing fee, or make any other
+   form of profit when distributing the Package, regardless of whether or not
+   it has been modified.
+
+3. Larger Works: You may distribute the Package alongside other works on the
+   same distribution media, such as a CDROM.  Fees are permitted with respect
+   to the larger work without breaching the limitations in clause 2 of this
+   agreement.  However, You must be able to produce a Freely Available copy
+   of the distributed Package at no charge to any individual that requests
+   it, within 7 days of the receipt of such requests.  This license must be
+   included with the distribution so that the recipient is adequately
+   informed as to their rights with respect to this Package.
+
+4. You may distribute the Package in compiled form, provided that you
+   accompany the distribution with the source code of the Package with your
+   modifications, OR provide a reference to the modified source code at a
+   publicly accessible location on the Internet. All of the aforementioned
+   distribution rights are in effect when distributing a compiled version of
+   the Package.
+
+
+DEVELOPMENT TERMS
+
+5. You may apply bug fixes, portability fixes and other modifications derived
+   from the Public Domain, or those made Freely Available, or from the
+   Copyright Holder.  A Package modified in such a way shall still be
+   considered the Standard Version.  The Copyright Holder will not be held
+   liable in the event that your modifications are in breach of the
+   intellectual property or patented works of another entity.  You are solely
+   responsible for ensuring that your actions are within the laws of your
+   country and that of the Copyright Holder(s).
+
+6. In accordance with any modifications that are made, you must insert a
+   prominent notice in each changed file stating how and when you changed
+   that file.  You must place your modifications in the Public Domain by
+   making them Freely Available through the Internet with unrestricted access
+   to them, or by asking the Copyright Holder to include your modifications
+   in the Standard Version of the Package.
+
+7. Any Program that is linked to the Package via indirect means (i.e.
+   run-time linking) shall not be considered part of the Package.  If you
+   compile the Package into a larger Program (e.g. by static linking, or by
+   inclusive compilation) then the entire Program shall fall under the terms
+   of this license agreement and inherit all of its stated conditions.  If
+   this license is in conflict with any existing terms associated with the
+   larger Program, then you may not merge the two together.
+
+8. Any data that is output from the programs of the Package will not
+   automatically fall under the copyright of the Package, but belong to
+   whoever or whomever is responsible for generating that data (assuming
+   said output is of original content and does not infringe upon existing
+   copyright material).
+
+
+DISCLAIMER
+
+Copyright (C) 2000-2011 Your Name. All rights reserved.
+
+This Package is made available to you under the terms of the Open Development License.  This Package should be accompanied by a file that
+contains the associated licensing terms. If you are unable to find this file, a copy of the License can be found in the file LICENSE.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of the Package must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright 
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+
+   3. The name of the Copyright Holder may not be used to endorse or promote
+      products that use the Package without specific prior written
+      permission.
+
+THIS PACKAGE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
